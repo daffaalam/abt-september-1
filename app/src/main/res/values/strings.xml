@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Nama Aplikasi</string>
+
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_birth_day">Tanggal Lahir</string>
+    <string name="hint_address">Alamat</string>
+    <string name="hint_phone">Nomor Handphone</string>
+    <string name="hint_website">Website</string>
+    <string name="hint_religion">Agama</string>
+    <string name="hint_email">Email</string>
+
+    <string name="text_gender">Jenis Kelamin</string>
+
+    <string name="radio_man">Laki-Laki</string>
+    <string name="radio_woman">Perempuan</string>
+
+    <string name="hint_facebook">Facebook (https://fb.me/username)</string>
+    <string name="hint_twitter">Twitter (https://twitter.com/username)</string>
+    <string name="hint_line">Line (https://line.me/ti/p/~username)</string>
+    <string name="hint_telegram">Telegram (https://t.me/username)</string>
+    <string name="hint_instagram">Instagram (https://instagram.com/username)</string>
+    <string name="hint_whatsapp">Whatsapp (https://wa.me/number)</string>
+
+    <string name="text_facebook">https://fb.me/</string>
+    <string name="text_twitter">https://twitter.com/</string>
+    <string name="text_line">https://line.me/ti/p/~</string>
+    <string name="text_telegram">https://t.me/</string>
+    <string name="text_instagram">https://instagram.com/</string>
+    <string name="text_whatsapp">https://wa.me/</string>
+
+    <string-array name="spin_religion">
+        <item />
+        <item>Islam</item>
+        <item>Protestan</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Konghucu</item>
+    </string-array>
+
+    <string name="text_blood">Golongan Darah</string>
+
+    <string name="radio_blood_a">A</string>
+    <string name="radio_blood_b">B</string>
+    <string name="radio_blood_ab">AB</string>
+    <string name="radio_blood_o">O</string>
+
+    <string name="button_min">-</string>
+    <string name="button_add">+</string>
+
+    <string name="text_shoes">Ukuran Sepatu</string>
+
+</resources>
